@@ -61,16 +61,24 @@ View(abuse_exploration)
 
 # 4. Exploratory Data Analysis (EDA)---------------------------------------------
 
-# View the first 6 rows
+### 4.1 Checking the first and last rows-----------------------------------------
+
+#### View the first 6 rows
 head(abuse_exploration)
 
-# View the last 6 rows
+#### View the last 6 rows
 tail(abuse_exploration)
 
-# View the structure of dataset
+### 4.2 View the structure of dataset--------------------------------------------
 str(abuse_exploration)
 
-# Summarize the dataset
+### 4.3. View of the data frame or tibble---------------------------------------- 
+glimpse(abuse_exploration)
+
+### 4.4. Check the dimensions of a data frame------------------------------------
+str(abuse_exploration)
+
+#Summarize the dataset
 summary(abuse_exploration)
 
 
