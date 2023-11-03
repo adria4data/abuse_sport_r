@@ -3,7 +3,7 @@
 
 # Uncovering Shadows: Analyzing Sport Abuse in Romania
 
-# Adrian Rus & Stativa Ecaterina
+# Adrian Rus
 
 # November 1, 2023 
 
